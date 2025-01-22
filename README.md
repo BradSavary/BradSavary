@@ -30,12 +30,13 @@ Salut ! Je suis **Brad Savary**, étudiant en **2ème année de BUT MMI (Métier
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=BradSavary&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradsavary&layout=compact&theme=radical)
 ---
 
 ## 📫 Me contacter
 📧 **Email :** [brad.savary@example.com](mailto:brad.savary@example.com)  
-💼 **LinkedIn :** [linkedin.com/in/brad-savary](https://linkedin.com/in/brad-savary)  
-🌐 **Portfolio :** [bradsavary.dev](https://bradsavary.dev) *(si applicable)*
+💼 **LinkedIn :** [linkedin.com/in/brad-savary](https://linkedin.com/in/brad-savary](https://www.linkedin.com/in/brad-savary-07322b294/))  
+🌐 **Portfolio :** [bradsavary.dev](https://bradsavary.dev) *en développement*
 
 ---
 
