@@ -16,6 +16,11 @@ Salut ! Je suis **Brad Savary**, étudiant en **2ème année de BUT MMI (Métier
 - **Techno utilisées :** Vue.js, Node.js, API REST.
 - **Aperçu :** Une application moderne et responsive avec des fonctionnalités avancées.
 
+###🌃[Nuit MMI](https://github.com/BradSavary/Nuit-MMI)
+**Objectif:** Créer un jeu et sa landing page promotionnelle sur la pollution digitale, en moins de 24h.
+- **Techno utilisées :** JS, CSS, HTML.
+- **Aperçu :** Un jeu type "clicker" avec différentes compétences.
+  
 ---
 
 ## 🎯 Compétences principales
