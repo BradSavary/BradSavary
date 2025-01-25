@@ -13,7 +13,7 @@ Salut ! Je suis **Brad Savary**, étudiant en **2ème année de BUT MMI (Métier
 
 ### 🌌 [SAE303-2](https://github.com/BradSavary/SAE303-2)
 **Objectif :** Approfondir les compétences en front-end et back-end.  
-- **Techno utilisées :** Vue.js, Node.js, API REST.
+- **Techno utilisées :** Node.js, API REST.
 - **Aperçu :** Une application moderne et responsive avec des fonctionnalités avancées.
 
 ### 🌃[Nuit MMI](https://github.com/BradSavary/Nuit-MMI)
@@ -25,7 +25,7 @@ Salut ! Je suis **Brad Savary**, étudiant en **2ème année de BUT MMI (Métier
 
 ## 🎯 Compétences principales
 - **Développement web :** HTML, CSS, JavaScript, PHP, MySQL.
-- **Frameworks et librairies :** Vue.js, Node.js.
+- **Frameworks et librairies :**Node.js, P5JS, Anychart.
 - **Outils :** Git, Figma, Photoshop.
 - **Gestion de projet :** Méthodologie agile, travail collaboratif.
 
