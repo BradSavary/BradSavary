@@ -25,6 +25,7 @@ Salut ! Je suis **Brad Savary**, étudiant en **2ème année de BUT MMI (Métier
 
 ## 🎯 Compétences principales
 - **Développement web :** HTML, CSS, JavaScript, PHP, MySQL.
+- **Développement web (en cours d'acquisition) :** React, Symfony, 3JS, P5JS.
 - **Frameworks et librairies :** Node.js, P5JS, Anychart.
 - **Outils :** Figma, Illustrator.
 - **Gestion de projet :** Méthodologie agile, travail collaboratif.
