@@ -6,6 +6,11 @@ Salut ! Je suis **Brad Savary**, étudiant en **2ème année de BUT MMI (Métier
 
 ## 🌟 Projets en avant
 
+### 🎧 [VR Game](https://github.com/BradSavary/Let_him_quizz)
+**Objectif :** Développement d'un jeu jouable en VR pour apprendre l'anglais
+- **Techno utilisées :** HTML, Tailwind, Javascript, A-FRAME, PHP, MySQL.
+- **Aperçu :** Un TV show mettant en scène différents mini-jeu.
+
 ### 🚀 [SAE303](https://github.com/BradSavary/SAE303)
 **Objectif :** Développement d'une application web dynamique.  
 - **Techno utilisées :** HTML, CSS, JavaScript, PHP, MySQL.
