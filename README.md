@@ -7,39 +7,49 @@ Salut ! Je suis **Brad Savary**, étudiant en **2ème année de BUT MMI (Métier
 ## 🌟 Projets en avant
 
 ### 🎧 [VR Game](https://github.com/BradSavary/Let_him_quizz)
-**Objectif :** Développement d'un jeu jouable en VR pour apprendre l'anglais
 - **Techno utilisées :** HTML, Tailwind, Javascript, A-FRAME, PHP, MySQL.
-- **Aperçu :** Un TV show mettant en scène différents mini-jeu.
+- **Aperçu :** Un TV show mettant en scène différents mini-jeu compatible en VR.
+
+### 🥐 [CroissantagePublic](https://github.com/BradSavary/CroissantagePublic)
+- **Techno utilisées :** HTML, CSS, JavaScript, PHP.
+- **Aperçu :** Croissanter le PC d'un collègue pour la sensiblisation à la sécurité informatique.
+
+### 🏥 [MouvementsPublic](https://github.com/BradSavary/MouvementsPublic)
+- **Techno utilisées :** React, Tailwindcss, PHP (API REST), Connexion ELDAP...
+- **Aperçu :** Gestion des mouvements et décès d'un hopital.
+
+### 🛠️ [BonsTravaux](https://github.com/BradSavary/BonsTravaux)
+- **Techno utilisées :** React, Tailwindcss, PHP (API REST), Connexion ELDAP...
+- **Aperçu :** Gestion des demandes d'intervenations d'une entreprise.
+
+- ### 🧑‍🤝‍🧑 [SAE401‑base](https://github.com/BradSavary/SAE401-base)
+- **Techno utilisées :** Symfony, Docker, React, Typescript, Tailwindcss...
+- **Aperçu :** Un site type réseau social.
 
 ### 🚀 [SAE303](https://github.com/BradSavary/SAE303)
-**Objectif :** Développement d'une application web dynamique.  
 - **Techno utilisées :** HTML, CSS, JavaScript, PHP, MySQL.
-- **Aperçu :** Un projet mettant en avant une gestion de contenu avec une base de données.
+- **Aperçu :** Dashboard avec librairie de chart.
 
 ### 🌌 [SAE303-2](https://github.com/BradSavary/SAE303-2)
-**Objectif :** Approfondir les compétences en front-end et back-end.  
 - **Techno utilisées :** Node.js, API REST.
-- **Aperçu :** Une application moderne et responsive avec des fonctionnalités avancées.
+- **Aperçu :** Gestion de map openstreetmap.
 
 ### 🌃[Nuit MMI](https://github.com/BradSavary/Nuit-MMI)
-**Objectif:** Créer un jeu et sa landing page promotionnelle sur la pollution digitale, en moins de 24h.
 - **Techno utilisées :** JS, CSS, HTML.
-- **Aperçu :** Un jeu type "clicker" avec différentes compétences.
+- **Aperçu :** Un jeu et sa landing page promotionnelle sur la pollution digitale, créé en moins de 24h.
   
 ---
 
 ## 🎯 Compétences principales
-- **Développement web :** HTML, CSS, JavaScript, PHP, MySQL.
-- **Développement web (en cours d'acquisition) :** React, Symfony, 3JS, P5JS.
-- **Frameworks et librairies :** Node.js, P5JS, Anychart.
-- **Outils :** Figma, Illustrator.
-- **Gestion de projet :** Méthodologie agile, travail collaboratif.
+- **Développement web :** HTML, CSS, JavaScript, PHP, MySQL, React, Symfony, 3JS, P5JS, Chart.js, Tailwindcss, vite.
+- **Outils Graphiques:** Figma, Illustrator.
+- **Gestion de projet :** Méthodologie agile, travail collaboratif et approche itérative.
 
 ---
 
 ## 📊 Statistiques GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=BradSavary&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradsavary&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradsavary&layout=compact&theme=radical)
 
 ---
 
