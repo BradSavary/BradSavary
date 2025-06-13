@@ -22,7 +22,7 @@ Salut ! Je suis **Brad Savary**, étudiant en **2ème année de BUT MMI (Métier
 - **Techno utilisées :** React, Tailwindcss, PHP (API REST), Connexion ELDAP...
 - **Aperçu :** Gestion des demandes d'intervenations d'une entreprise.
 
-- ### 🧑‍🤝‍🧑 [SAE401‑base](https://github.com/BradSavary/SAE401-base)
+### 🧑‍🤝‍🧑 [SAE401‑base](https://github.com/BradSavary/SAE401-base)
 - **Techno utilisées :** Symfony, Docker, React, Typescript, Tailwindcss...
 - **Aperçu :** Un site type réseau social.
 
