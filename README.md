@@ -1,6 +1,6 @@
 # Bienvenue sur mon GitHub 👋
 
-Salut ! Je suis **Brad Savary**, étudiant en **2ème année de BUT MMI (Métiers du Multimédia et de l'Internet)** à l'IUT du Limousin. Passionné par le développement web, la création numérique et les nouvelles technologies, ce dépôt reflète mon parcours, mes projets, et mes apprentissages.
+Salut ! Je suis **Brad Savary**, étudiant en **3ème année de BUT MMI (Métiers du Multimédia et de l'Internet)** à l'IUT du Limousin. Passionné par le développement web, la création numérique et les nouvelles technologies, ce dépôt reflète mon parcours, mes projets, et mes apprentissages.
 
 ---
 
