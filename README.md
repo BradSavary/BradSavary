@@ -56,7 +56,8 @@ Salut ! Je suis **Brad Savary**, étudiant en **3ème année de BUT MMI (Métier
 ## 📫 Me contacter
 📧 **Email :** [brad.savary10@gmail.com](mailto:brad.savary10@gmail.com)  
 💼 **LinkedIn :** [linkedin.com/in/brad-savary](https://www.linkedin.com/in/brad-savary-07322b294/)  
-🪪 **CV :** [bradsavary.fr](http://bradsavary.fr/assets/CV-BH9dEKo2.pdf)
+🧑‍💻 **Portfolio :** [bradsavary-portfolio.vercel.app](https://bradsavary-portfolio.vercel.app)
+🪪 **CV :** [CV en ligne](https://bradsavary-portfolio.vercel.app/CV.pdf)
 
 ---
 
