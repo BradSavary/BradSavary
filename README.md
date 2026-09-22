@@ -70,11 +70,9 @@ J'aime concevoir des applications utiles au quotidien : outils internes, applica
 
 ## 📊 Statistiques GitHub
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bradsavary&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bradsavary&layout=compact&theme=radical&hide_border=true" alt="Top langages"/>
+<p> 
+<img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Profil GitHub" width="100%"/> </p> <p> <img src="./profile-summary-card-output/radical/3-stats.svg" alt="Statistiques" width="49%"/> <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Langages les plus utilisés" width="49%"/> 
 </p>
-
 ---
 
 
