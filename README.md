@@ -27,29 +27,16 @@ J'aime concevoir des applications utiles au quotidien : outils internes, applica
 
 ## 🌟 Projets en avant
 
-### 🚀 Projets personnels
-
-**[Habit Tracker](https://github.com/BradSavary/Habit_Tracker)** — Application de suivi d'habitudes avec authentification, statistiques et graphiques, envoi d'emails.
-`Next.js` `TypeScript` `Prisma` `NextAuth` `Zod` `shadcn/ui` `Recharts`
-
-**[Michelin Library](https://github.com/BradSavary/MichelinLibrary)** — Test technique : application full-stack de gestion de bibliothèque (CRUD, recherche en temps réel, statistiques), entièrement conteneurisée.
-`React` `TypeScript` `Express` `Prisma` `PostgreSQL` `Docker` `Chart.js`
-
-**[Notes collaboratives](https://github.com/BradSavary/collaborative-notes)** — Éditeur de notes synchronisé en temps réel entre plusieurs utilisateurs.
+**[Dot-Txt](https://github.com/BradSavary/collaborative-notes)** — Éditeur de notes collaboratives en temps réel.
 `Next.js` `TypeScript` `Express` `Socket.io` `shadcn/ui`
-
-**[CodeQuest](https://github.com/BradSavary/CodeQuest)** — Jeu d'énigmes de développement : chaque niveau se débloque en résolvant un défi de code.
-`React` `Vite` `Tailwind CSS` `dnd-kit`
 
 **[Portfolio Écaille](https://github.com/BradSavary/Portfolio-Ecaille)** — Portfolio réalisé pour une artiste (Éloïse Marien).
 `Next.js` `TypeScript` `Tailwind CSS`
 
-### 🎓 Projets universitaires & événements
-
 **[Nuit MMI 2026](https://github.com/BradSavary/NuitMMI2026)** — Jeu interactif conçu en une nuit, mêlant creative coding et machine learning dans le navigateur.
 `Next.js` `p5.js` `ml5.js` `Tailwind CSS`
 
-**[Réseau social (SAE401)](https://github.com/BradSavary/SAE401-base)** — Site de type réseau social avec API Symfony et front React.
+**[Réseau social](https://github.com/BradSavary/SAE401-base)** — Site de type réseau social avec API Symfony et front React.
 `Symfony` `React` `TypeScript` `Docker` `Tailwind CSS`
 
 **[Jeu VR](https://github.com/BradSavary/Let_him_quizz)** — Un TV show composé de mini-jeux jouables en réalité virtuelle.
@@ -57,6 +44,9 @@ J'aime concevoir des applications utiles au quotidien : outils internes, applica
 
 **[Nuit MMI 2025](https://github.com/BradSavary/Nuit-MMI)** — Un jeu et sa landing page sur la pollution numérique, créés en moins de 24h.
 `JavaScript` `HTML` `CSS`
+
+**[Michelin Library](https://github.com/BradSavary/MichelinLibrary)** — Test technique : application full-stack de gestion de bibliothèque (CRUD, recherche en temps réel, statistiques), entièrement conteneurisée.
+`React` `TypeScript` `Express` `Prisma` `PostgreSQL` `Docker` `Chart.js`
 
 ---
 
