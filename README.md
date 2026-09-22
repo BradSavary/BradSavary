@@ -7,8 +7,8 @@ J'aime concevoir des applications utiles au quotidien : outils internes, applica
 🔎 **Actuellement à la recherche d'un poste de développeur web.**
 
 <p>
-  <a href="https://portfolio-bradsavary.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://portfolio-bradsavary.vercel.app/cv.pdf"><img src="https://img.shields.io/badge/CV-PDF-E34F26?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"/></a>
+  <a href="https://bradsavary.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://bradsavary.dev/cv.pdf"><img src="https://img.shields.io/badge/CV-PDF-E34F26?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"/></a>
   <a href="https://www.linkedin.com/in/brad-savary-07322b294/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:brad.savary10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
