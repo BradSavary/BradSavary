@@ -1,52 +1,91 @@
-# Bienvenue sur mon GitHub 👋
+# Salut, moi c'est Brad 👋
 
-Salut ! Je suis **Brad Savary**, étudiant en **3ème année de BUT MMI (Métiers du Multimédia et de l'Internet)** à l'IUT du Limousin. Passionné par le développement web, la création numérique et les nouvelles technologies, ce dépôt reflète mon parcours, mes projets, et mes apprentissages.
+**Développeur web full-stack** basé à Limoges, diplômé du **BUT MMI** (Métiers du Multimédia et de l'Internet, parcours développement web) à l'IUT du Limousin.
+
+J'aime concevoir des applications utiles au quotidien : outils internes, applications temps réel, sites vitrines… du front jusqu'à la base de données.
+
+🔎 **Actuellement à la recherche d'un poste de développeur web.**
+
+<p>
+  <a href="https://portfolio-bradsavary.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://portfolio-bradsavary.vercel.app/cv.pdf"><img src="https://img.shields.io/badge/CV-PDF-E34F26?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"/></a>
+  <a href="https://www.linkedin.com/in/brad-savary-07322b294/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:brad.savary10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+## 💼 Expérience
+
+| Période | Poste | Structure | Mission |
+| --- | --- | --- | --- |
+| Juillet 2026 | Développeur web (contrat) | La ferme du coin, Limoges | Site vitrine avec back-office, base de données et service d'images pour une boutique de produits frais |
+| Mars – Juin 2026 | Stagiaire développeur web front | IUT du Limousin, Limoges | Application de création d'emplois du temps pour l'ensemble des formations du campus |
+| Avril – Juin 2025 | Stagiaire développeur web full-stack | Centre Hospitalier Monts et Barrages (CHIMB) | Plusieurs applications internes pour améliorer les conditions de travail des équipes |
 
 ---
 
 ## 🌟 Projets en avant
 
-### 🎧 [VR Game](https://github.com/BradSavary/Let_him_quizz)
-- **Techno utilisées :** HTML, Tailwind, Javascript, A-FRAME, PHP, MySQL.
-- **Aperçu :** Un TV show mettant en scène différents mini-jeu compatible en VR.
+### 🚀 Projets personnels
 
-### 🧑‍🤝‍🧑 [SAE401‑base](https://github.com/BradSavary/SAE401-base)
-- **Techno utilisées :** Symfony, Docker, React, Typescript, Tailwindcss...
-- **Aperçu :** Un site type réseau social.
+**[Habit Tracker](https://github.com/BradSavary/Habit_Tracker)** — Application de suivi d'habitudes avec authentification, statistiques et graphiques, envoi d'emails.
+`Next.js` `TypeScript` `Prisma` `NextAuth` `Zod` `shadcn/ui` `Recharts`
 
-### 🚀 [SAE303](https://github.com/BradSavary/SAE303)
-- **Techno utilisées :** HTML, CSS, JavaScript, PHP, MySQL.
-- **Aperçu :** Dashboard avec librairie de chart.
+**[Michelin Library](https://github.com/BradSavary/MichelinLibrary)** — Test technique : application full-stack de gestion de bibliothèque (CRUD, recherche en temps réel, statistiques), entièrement conteneurisée.
+`React` `TypeScript` `Express` `Prisma` `PostgreSQL` `Docker` `Chart.js`
 
-### 🌌 [SAE303-2](https://github.com/BradSavary/SAE303-2)
-- **Techno utilisées :** Node.js, API REST.
-- **Aperçu :** Gestion de map openstreetmap.
+**[Notes collaboratives](https://github.com/BradSavary/collaborative-notes)** — Éditeur de notes synchronisé en temps réel entre plusieurs utilisateurs.
+`Next.js` `TypeScript` `Express` `Socket.io` `shadcn/ui`
 
-### 🌃[Nuit MMI](https://github.com/BradSavary/Nuit-MMI)
-- **Techno utilisées :** JS, CSS, HTML.
-- **Aperçu :** Un jeu et sa landing page promotionnelle sur la pollution digitale, créé en moins de 24h.
-  
+**[CodeQuest](https://github.com/BradSavary/CodeQuest)** — Jeu d'énigmes de développement : chaque niveau se débloque en résolvant un défi de code.
+`React` `Vite` `Tailwind CSS` `dnd-kit`
+
+**[Portfolio Écaille](https://github.com/BradSavary/Portfolio-Ecaille)** — Portfolio réalisé pour une artiste (Éloïse Marien).
+`Next.js` `TypeScript` `Tailwind CSS`
+
+### 🎓 Projets universitaires & événements
+
+**[Nuit MMI 2026](https://github.com/BradSavary/NuitMMI2026)** — Jeu interactif conçu en une nuit, mêlant creative coding et machine learning dans le navigateur.
+`Next.js` `p5.js` `ml5.js` `Tailwind CSS`
+
+**[Réseau social (SAE401)](https://github.com/BradSavary/SAE401-base)** — Site de type réseau social avec API Symfony et front React.
+`Symfony` `React` `TypeScript` `Docker` `Tailwind CSS`
+
+**[Jeu VR](https://github.com/BradSavary/Let_him_quizz)** — Un TV show composé de mini-jeux jouables en réalité virtuelle.
+`A-Frame` `JavaScript` `PHP` `MySQL`
+
+**[Nuit MMI 2025](https://github.com/BradSavary/Nuit-MMI)** — Un jeu et sa landing page sur la pollution numérique, créés en moins de 24h.
+`JavaScript` `HTML` `CSS`
+
 ---
 
-## 🎯 Compétences principales
-- **Développement web :** HTML, CSS, JavaScript, PHP, Tailwindcss, SQL, React, NextJs, Symfony, 3JS, P5JS, vite.
-- **Outils Graphiques:** Figma, Illustrator.
-- **Gestion de projet :** Méthodologie agile, travail collaboratif et approche itérative.
+## 🛠️ Stack
+
+**Langages**
+
+[![Langages](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,mysql,postgres)](https://skillicons.dev)
+
+**Frameworks & bibliothèques**
+
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,symfony,tailwind,threejs,prisma,jest)](https://skillicons.dev)
+
+**Outils**
+
+[![Outils](https://skillicons.dev/icons?i=git,github,docker,vite,vscode,figma,ps,ai,pr,ae)](https://skillicons.dev)
+
+Également : Socket.io, Zustand, Playwright, p5.js, A-Frame, méthodes agiles (Trello).
 
 ---
 
 ## 📊 Statistiques GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradsavary&layout=compact&theme=radical)
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bradsavary&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bradsavary&layout=compact&theme=radical&hide_border=true" alt="Top langages"/>
+</p>
 
 ---
 
-## 📫 Me contacter
-📧 **Email :** [brad.savary10@gmail.com](mailto:brad.savary10@gmail.com)  
-💼 **LinkedIn :** [linkedin.com/in/brad-savary](https://www.linkedin.com/in/brad-savary-07322b294/)  
-🧑‍💻 **Portfolio :** [bradsavary-portfolio.vercel.app](https://bradsavary-portfolio.vercel.app)
-🪪 **CV :** [CV en ligne](https://portfolio-bradsavary.vercel.app/cv.pdf)
 
----
-
-**Merci de visiter mon GitHub !** N'hésitez pas à consulter mes projets, donner votre feedback ou collaborer avec moi. 🚀
+**Merci de votre visite !** N'hésitez pas à explorer mes projets ou à me contacter pour échanger. 🚀
