@@ -30,6 +30,9 @@ J'aime concevoir des applications utiles au quotidien : outils internes, applica
 **[Dot-Txt](https://dot-txt.fr/)** — Éditeur de notes collaboratives en temps réel.
 `Next.js` `TypeScript` `Express` `Socket.io` `shadcn/ui`
 
+**[EDT-TS](https://github.com/BradSavary/edt-ts)** — Application permettant la création d'emploi du temps et la manipulation de données temporelles, matérielles et humaines.
+`Next.js` `TypeScript` `Express` `Tailwindcss` `Zustand` 
+
 **[Portfolio Écaille](https://github.com/BradSavary/Portfolio-Ecaille)** — Portfolio réalisé pour une artiste (Éloïse Marien).
 `Next.js` `TypeScript` `Tailwind CSS`
 
