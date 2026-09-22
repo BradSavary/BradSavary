@@ -27,7 +27,7 @@ J'aime concevoir des applications utiles au quotidien : outils internes, applica
 
 ## 🌟 Projets en avant
 
-**[Dot-Txt](https://github.com/BradSavary/collaborative-notes)** — Éditeur de notes collaboratives en temps réel.
+**[Dot-Txt](https://dot-txt.fr/)** — Éditeur de notes collaboratives en temps réel.
 `Next.js` `TypeScript` `Express` `Socket.io` `shadcn/ui`
 
 **[Portfolio Écaille](https://github.com/BradSavary/Portfolio-Ecaille)** — Portfolio réalisé pour une artiste (Éloïse Marien).
@@ -43,6 +43,9 @@ J'aime concevoir des applications utiles au quotidien : outils internes, applica
 `A-Frame` `JavaScript` `PHP` `MySQL`
 
 **[Nuit MMI 2025](https://github.com/BradSavary/Nuit-MMI)** — Un jeu et sa landing page sur la pollution numérique, créés en moins de 24h.
+`JavaScript` `HTML` `CSS`
+
+**[App Météo](https://github.com/BradSavary/Nuit-MMI)** — Un jeu et sa landing page sur la pollution numérique, créés en moins de 24h.
 `JavaScript` `HTML` `CSS`
 
 **[Michelin Library](https://github.com/BradSavary/MichelinLibrary)** — Test technique : application full-stack de gestion de bibliothèque (CRUD, recherche en temps réel, statistiques), entièrement conteneurisée.
