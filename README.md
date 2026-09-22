@@ -10,18 +10,6 @@ Salut ! Je suis **Brad Savary**, étudiant en **3ème année de BUT MMI (Métier
 - **Techno utilisées :** HTML, Tailwind, Javascript, A-FRAME, PHP, MySQL.
 - **Aperçu :** Un TV show mettant en scène différents mini-jeu compatible en VR.
 
-### 🥐 [CroissantagePublic](https://github.com/BradSavary/CroissantagePublic)
-- **Techno utilisées :** HTML, CSS, JavaScript, PHP.
-- **Aperçu :** Croissanter le PC d'un collègue pour la sensiblisation à la sécurité informatique.
-
-### 🏥 [MouvementsPublic](https://github.com/BradSavary/MouvementsPublic)
-- **Techno utilisées :** React, Tailwindcss, PHP (API REST), Connexion ELDAP...
-- **Aperçu :** Gestion des mouvements et décès d'un hopital.
-
-### 🛠️ [BonsTravaux](https://github.com/BradSavary/BonsTravaux)
-- **Techno utilisées :** React, Tailwindcss, PHP (API REST), Connexion ELDAP...
-- **Aperçu :** Gestion des demandes d'intervenations d'une entreprise.
-
 ### 🧑‍🤝‍🧑 [SAE401‑base](https://github.com/BradSavary/SAE401-base)
 - **Techno utilisées :** Symfony, Docker, React, Typescript, Tailwindcss...
 - **Aperçu :** Un site type réseau social.
@@ -41,7 +29,7 @@ Salut ! Je suis **Brad Savary**, étudiant en **3ème année de BUT MMI (Métier
 ---
 
 ## 🎯 Compétences principales
-- **Développement web :** HTML, CSS, JavaScript, PHP, MySQL, React, Symfony, 3JS, P5JS, Chart.js, Tailwindcss, vite.
+- **Développement web :** HTML, CSS, JavaScript, PHP, Tailwindcss, SQL, React, NextJs, Symfony, 3JS, P5JS, vite.
 - **Outils Graphiques:** Figma, Illustrator.
 - **Gestion de projet :** Méthodologie agile, travail collaboratif et approche itérative.
 
@@ -57,7 +45,7 @@ Salut ! Je suis **Brad Savary**, étudiant en **3ème année de BUT MMI (Métier
 📧 **Email :** [brad.savary10@gmail.com](mailto:brad.savary10@gmail.com)  
 💼 **LinkedIn :** [linkedin.com/in/brad-savary](https://www.linkedin.com/in/brad-savary-07322b294/)  
 🧑‍💻 **Portfolio :** [bradsavary-portfolio.vercel.app](https://bradsavary-portfolio.vercel.app)
-🪪 **CV :** [CV en ligne](https://bradsavary-portfolio.vercel.app/CV.pdf)
+🪪 **CV :** [CV en ligne](https://portfolio-bradsavary.vercel.app/cv.pdf)
 
 ---
 
