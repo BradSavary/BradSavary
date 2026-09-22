@@ -45,9 +45,6 @@ J'aime concevoir des applications utiles au quotidien : outils internes, applica
 **[Nuit MMI 2025](https://github.com/BradSavary/Nuit-MMI)** — Un jeu et sa landing page sur la pollution numérique, créés en moins de 24h.
 `JavaScript` `HTML` `CSS`
 
-**[App Météo](https://github.com/BradSavary/Nuit-MMI)** — Un jeu et sa landing page sur la pollution numérique, créés en moins de 24h.
-`JavaScript` `HTML` `CSS`
-
 **[Michelin Library](https://github.com/BradSavary/MichelinLibrary)** — Test technique : application full-stack de gestion de bibliothèque (CRUD, recherche en temps réel, statistiques), entièrement conteneurisée.
 `React` `TypeScript` `Express` `Prisma` `PostgreSQL` `Docker` `Chart.js`
 
