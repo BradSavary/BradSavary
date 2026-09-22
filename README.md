@@ -68,12 +68,5 @@ J'aime concevoir des applications utiles au quotidien : outils internes, applica
 
 ---
 
-## 📊 Statistiques GitHub
-
-<p> 
-<img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Profil GitHub" width="100%"/> </p> <p> <img src="./profile-summary-card-output/radical/3-stats.svg" alt="Statistiques" width="49%"/> <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Langages les plus utilisés" width="49%"/> 
-</p>
----
-
 
 **Merci de votre visite !** N'hésitez pas à explorer mes projets ou à me contacter pour échanger. 🚀
